@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Methods\obj\Debug\net6.0\ref\Methods.dll
