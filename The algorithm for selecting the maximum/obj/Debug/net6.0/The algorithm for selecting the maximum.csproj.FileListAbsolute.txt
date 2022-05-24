@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\bin\Debug\net6.0\The algorithm for selecting the maximum.exe
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\bin\Debug\net6.0\The algorithm for selecting the maximum.deps.json
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\bin\Debug\net6.0\The algorithm for selecting the maximum.runtimeconfig.json
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\bin\Debug\net6.0\The algorithm for selecting the maximum.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\bin\Debug\net6.0\The algorithm for selecting the maximum.pdb
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.AssemblyInfo.cs
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\refint\The algorithm for selecting the maximum.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.pdb
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\The algorithm for selecting the maximum.genruntimeconfig.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\The algorithm for selecting the maximum\obj\Debug\net6.0\ref\The algorithm for selecting the maximum.dll
