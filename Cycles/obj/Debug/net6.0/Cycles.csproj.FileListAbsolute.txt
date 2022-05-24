@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\bin\Debug\net6.0\Cycles.exe
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\bin\Debug\net6.0\Cycles.deps.json
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\bin\Debug\net6.0\Cycles.runtimeconfig.json
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\bin\Debug\net6.0\Cycles.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\bin\Debug\net6.0\Cycles.pdb
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.AssemblyInfo.cs
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\refint\Cycles.dll
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.pdb
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\Cycles.genruntimeconfig.cache
+C:\Users\Дом\Desktop\VSCode\Знакомство с С#\Lecture_3_C#\Cycles\obj\Debug\net6.0\ref\Cycles.dll
